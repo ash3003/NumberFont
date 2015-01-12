@@ -1,15 +1,19 @@
 {
   "checksum": {
-    "previous": "47d61489ad87dda5e0bc49859a510218c9429fca1944f3fe8acd50188934773c",
-    "current": "47d61489ad87dda5e0bc49859a510218c9429fca1944f3fe8acd50188934773c"
+    "previous": "d385ff905a030d3d5c632b52ed25b00b9c03d9844644a1ad9d1be4d01f946ba2",
+    "current": "d385ff905a030d3d5c632b52ed25b00b9c03d9844644a1ad9d1be4d01f946ba2"
   },
   "fonts": [
-    "fontcustom/fontcustom_47d61489ad87dda5e0bc49859a510218.ttf",
-    "fontcustom/fontcustom_47d61489ad87dda5e0bc49859a510218.svg",
-    "fontcustom/fontcustom_47d61489ad87dda5e0bc49859a510218.woff",
-    "fontcustom/fontcustom_47d61489ad87dda5e0bc49859a510218.eot"
+    "fontcustom/fontcustom_d385ff905a030d3d5c632b52ed25b00b.ttf",
+    "fontcustom/fontcustom_d385ff905a030d3d5c632b52ed25b00b.svg",
+    "fontcustom/fontcustom_d385ff905a030d3d5c632b52ed25b00b.woff",
+    "fontcustom/fontcustom_d385ff905a030d3d5c632b52ed25b00b.eot"
   ],
   "glyphs": {
+    "AboutNumber": {
+      "codepoint": 61698,
+      "source": "svg/AboutNumber.svg"
+    },
     "Whatsapp-logo-symbol-bw": {
       "codepoint": 61696,
       "source": "svg/Whatsapp-logo-symbol-bw.svg"
