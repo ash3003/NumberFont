@@ -1,0 +1,54 @@
+{
+  "checksum": {
+    "previous": "47d61489ad87dda5e0bc49859a510218c9429fca1944f3fe8acd50188934773c",
+    "current": "47d61489ad87dda5e0bc49859a510218c9429fca1944f3fe8acd50188934773c"
+  },
+  "fonts": [
+    "fontcustom/fontcustom_47d61489ad87dda5e0bc49859a510218.ttf",
+    "fontcustom/fontcustom_47d61489ad87dda5e0bc49859a510218.svg",
+    "fontcustom/fontcustom_47d61489ad87dda5e0bc49859a510218.woff",
+    "fontcustom/fontcustom_47d61489ad87dda5e0bc49859a510218.eot"
+  ],
+  "glyphs": {
+    "Whatsapp-logo-symbol-bw": {
+      "codepoint": 61696,
+      "source": "svg/Whatsapp-logo-symbol-bw.svg"
+    },
+    "addtocontact": {
+      "codepoint": 61697,
+      "source": "svg/addtocontact.svg"
+    }
+  },
+  "options": {
+    "autowidth": false,
+    "config": false,
+    "css_selector": ".icon-{{glyph}}",
+    "debug": false,
+    "font_ascent": 448,
+    "font_descent": 64,
+    "font_design_size": 16,
+    "font_em": 512,
+    "font_name": "fontcustom",
+    "force": false,
+    "input": {
+      "templates": "svg",
+      "vectors": "svg"
+    },
+    "no_hash": false,
+    "output": {
+      "css": "fontcustom",
+      "fonts": "fontcustom",
+      "preview": "fontcustom"
+    },
+    "preprocessor_path": null,
+    "quiet": false,
+    "templates": [
+      "css",
+      "preview"
+    ]
+  },
+  "templates": [
+    "fontcustom/fontcustom.css",
+    "fontcustom/fontcustom-preview.html"
+  ]
+}

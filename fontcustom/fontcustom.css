@@ -1,0 +1,43 @@
+/*
+  Icon Font: fontcustom
+*/
+
+@font-face {
+  font-family: "fontcustom";
+  src: url("./fontcustom_47d61489ad87dda5e0bc49859a510218.eot");
+  src: url("./fontcustom_47d61489ad87dda5e0bc49859a510218.eot?#iefix") format("embedded-opentype"),
+       url("./fontcustom_47d61489ad87dda5e0bc49859a510218.woff") format("woff"),
+       url("./fontcustom_47d61489ad87dda5e0bc49859a510218.ttf") format("truetype"),
+       url("./fontcustom_47d61489ad87dda5e0bc49859a510218.svg#fontcustom") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "fontcustom";
+    src: url("./fontcustom_47d61489ad87dda5e0bc49859a510218.svg#fontcustom") format("svg");
+  }
+}
+
+[data-icon]:before { content: attr(data-icon); }
+
+[data-icon]:before,
+.icon-Whatsapp-logo-symbol-bw:before,
+.icon-addtocontact:before {
+  display: inline-block;
+  font-family: "fontcustom";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-decoration: inherit;
+  text-rendering: optimizeLegibility;
+  text-transform: none;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+}
+
+.icon-Whatsapp-logo-symbol-bw:before { content: "\f100"; }
+.icon-addtocontact:before { content: "\f101"; }
